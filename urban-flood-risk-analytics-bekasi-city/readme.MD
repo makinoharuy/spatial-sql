@@ -1,1 +1,1 @@
-Urban Flood Risk & Vulnerability Mapping using PostGIS. Study Case : Pekayon, Bekasi City
+Urban Flood Risk & Vulnerability Mapping using PostGIS. Study Case : Jatiasih, Bekasi City

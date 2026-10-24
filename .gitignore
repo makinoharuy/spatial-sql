@@ -1,6 +1,3 @@
-data/tuplah/48M_20250101-20251231.tif
 .vscode
 .duckdb
-/data/demnas
-/data/population
-/data/shp/KOTA BEKASI
+/data/*/

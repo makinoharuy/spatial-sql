@@ -21,3 +21,6 @@ create or replace table aoi as
 select * from st_read('data/shp/KOTA BEKASI/SUNGAI_AR_25K.shp');
 
 select * from aoi limit 5;
+
+create or replace table bps as 
+select * from read_csv('data\population')
